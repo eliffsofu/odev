@@ -1,0 +1,2 @@
+# odev
+patika.dev ödev 
